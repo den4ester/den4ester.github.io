@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1366px;
+    height: 2146px;
+    z-index: 9;
+  }
+  .Кепа1_копия {
+
+    position: absolute;
+    left: 395px;
+    top: 162px;
+    width: 484px;
+    height: 254px;
+    z-index: 8;
+  }
+  .Димас1 {
+position: absolute;
+        left: 14px;
+        top: 36px;
+        width: 109px;
+        height: 126px;
+        z-index: 6;
+  }
+
+  .Димас {
+
+    position: absolute;
+    left: 494px;
+    top: 249px;
+    width: 396px;
+    height: 537px;
+    z-index: 7;
+  }
+  ghost {
+
+    display: none
+  }
+  
+  .Найди_димаса {
+    font-size: 48px;
+    font-family: "Lucida Sans Unicode";
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    line-height: 1.2;
+    position: absolute;
+    left: 423px;
+    top: 28.409px;
+    width: 426px;
+    height: 53px;
+    z-index: 8;
+  }
+  
+  .Кепа1 {
+
+    position: absolute;
+    left: 1026px;
+    top: 1898px;
+    width: 310px;
+    height: 173px;
+    z-index: 5;
+  }
+  .КРАСАВА___ {
+    font-size: 48px;
+    font-family: "Lucida Sans Unicode";
+    color: rgb(11, 3, 3);
+    text-transform: uppercase;
+    line-height: 1.2;
+    position: absolute;
+    left: 547.781px;
+    top: 1037.148px;
+    width: 224.439px;
+    height: 37px;
+    z-index: 4;
+  }
+  .ДимасДудец2_копия {
+
+    position: absolute;
+    left: 445px;
+    top: 810px;
+    width: 192px;
+    height: 239px;
+    z-index: 3;
+  }
+  .ДимасДудец2 {
+
+    position: absolute;
+    left: 748px;
+    top: 810px;
+    width: 192px;
+    height: 239px;
+    z-index: 2;
+  }
+  
+  
